@@ -1,0 +1,15 @@
+/Users/polina/Desktop/OOP илюхи/lab24/bin/Debug/net7.0/lab24
+/Users/polina/Desktop/OOP илюхи/lab24/bin/Debug/net7.0/lab24.deps.json
+/Users/polina/Desktop/OOP илюхи/lab24/bin/Debug/net7.0/lab24.runtimeconfig.json
+/Users/polina/Desktop/OOP илюхи/lab24/bin/Debug/net7.0/lab24.dll
+/Users/polina/Desktop/OOP илюхи/lab24/bin/Debug/net7.0/lab24.pdb
+/Users/polina/Desktop/OOP илюхи/lab24/obj/Debug/net7.0/lab24.csproj.AssemblyReference.cache
+/Users/polina/Desktop/OOP илюхи/lab24/obj/Debug/net7.0/lab24.GeneratedMSBuildEditorConfig.editorconfig
+/Users/polina/Desktop/OOP илюхи/lab24/obj/Debug/net7.0/lab24.AssemblyInfoInputs.cache
+/Users/polina/Desktop/OOP илюхи/lab24/obj/Debug/net7.0/lab24.AssemblyInfo.cs
+/Users/polina/Desktop/OOP илюхи/lab24/obj/Debug/net7.0/lab24.csproj.CoreCompileInputs.cache
+/Users/polina/Desktop/OOP илюхи/lab24/obj/Debug/net7.0/lab24.dll
+/Users/polina/Desktop/OOP илюхи/lab24/obj/Debug/net7.0/refint/lab24.dll
+/Users/polina/Desktop/OOP илюхи/lab24/obj/Debug/net7.0/lab24.pdb
+/Users/polina/Desktop/OOP илюхи/lab24/obj/Debug/net7.0/lab24.genruntimeconfig.cache
+/Users/polina/Desktop/OOP илюхи/lab24/obj/Debug/net7.0/ref/lab24.dll
