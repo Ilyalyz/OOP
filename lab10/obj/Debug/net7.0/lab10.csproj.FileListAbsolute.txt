@@ -1,0 +1,15 @@
+/Users/polina/Desktop/OOP илюхи/lab10/bin/Debug/net7.0/lab10
+/Users/polina/Desktop/OOP илюхи/lab10/bin/Debug/net7.0/lab10.deps.json
+/Users/polina/Desktop/OOP илюхи/lab10/bin/Debug/net7.0/lab10.runtimeconfig.json
+/Users/polina/Desktop/OOP илюхи/lab10/bin/Debug/net7.0/lab10.dll
+/Users/polina/Desktop/OOP илюхи/lab10/bin/Debug/net7.0/lab10.pdb
+/Users/polina/Desktop/OOP илюхи/lab10/obj/Debug/net7.0/lab10.csproj.AssemblyReference.cache
+/Users/polina/Desktop/OOP илюхи/lab10/obj/Debug/net7.0/lab10.GeneratedMSBuildEditorConfig.editorconfig
+/Users/polina/Desktop/OOP илюхи/lab10/obj/Debug/net7.0/lab10.AssemblyInfoInputs.cache
+/Users/polina/Desktop/OOP илюхи/lab10/obj/Debug/net7.0/lab10.AssemblyInfo.cs
+/Users/polina/Desktop/OOP илюхи/lab10/obj/Debug/net7.0/lab10.csproj.CoreCompileInputs.cache
+/Users/polina/Desktop/OOP илюхи/lab10/obj/Debug/net7.0/lab10.dll
+/Users/polina/Desktop/OOP илюхи/lab10/obj/Debug/net7.0/refint/lab10.dll
+/Users/polina/Desktop/OOP илюхи/lab10/obj/Debug/net7.0/lab10.pdb
+/Users/polina/Desktop/OOP илюхи/lab10/obj/Debug/net7.0/lab10.genruntimeconfig.cache
+/Users/polina/Desktop/OOP илюхи/lab10/obj/Debug/net7.0/ref/lab10.dll

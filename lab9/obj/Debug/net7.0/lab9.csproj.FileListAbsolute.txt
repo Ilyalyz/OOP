@@ -1,0 +1,15 @@
+/Users/polina/Desktop/OOP илюхи/lab9/bin/Debug/net7.0/lab9
+/Users/polina/Desktop/OOP илюхи/lab9/bin/Debug/net7.0/lab9.deps.json
+/Users/polina/Desktop/OOP илюхи/lab9/bin/Debug/net7.0/lab9.runtimeconfig.json
+/Users/polina/Desktop/OOP илюхи/lab9/bin/Debug/net7.0/lab9.dll
+/Users/polina/Desktop/OOP илюхи/lab9/bin/Debug/net7.0/lab9.pdb
+/Users/polina/Desktop/OOP илюхи/lab9/obj/Debug/net7.0/lab9.csproj.AssemblyReference.cache
+/Users/polina/Desktop/OOP илюхи/lab9/obj/Debug/net7.0/lab9.GeneratedMSBuildEditorConfig.editorconfig
+/Users/polina/Desktop/OOP илюхи/lab9/obj/Debug/net7.0/lab9.AssemblyInfoInputs.cache
+/Users/polina/Desktop/OOP илюхи/lab9/obj/Debug/net7.0/lab9.AssemblyInfo.cs
+/Users/polina/Desktop/OOP илюхи/lab9/obj/Debug/net7.0/lab9.csproj.CoreCompileInputs.cache
+/Users/polina/Desktop/OOP илюхи/lab9/obj/Debug/net7.0/lab9.dll
+/Users/polina/Desktop/OOP илюхи/lab9/obj/Debug/net7.0/refint/lab9.dll
+/Users/polina/Desktop/OOP илюхи/lab9/obj/Debug/net7.0/lab9.pdb
+/Users/polina/Desktop/OOP илюхи/lab9/obj/Debug/net7.0/lab9.genruntimeconfig.cache
+/Users/polina/Desktop/OOP илюхи/lab9/obj/Debug/net7.0/ref/lab9.dll
