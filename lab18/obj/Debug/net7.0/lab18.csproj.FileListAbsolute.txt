@@ -1,0 +1,15 @@
+/Users/polina/Desktop/OOP илюхи/lab18/bin/Debug/net7.0/lab18
+/Users/polina/Desktop/OOP илюхи/lab18/bin/Debug/net7.0/lab18.deps.json
+/Users/polina/Desktop/OOP илюхи/lab18/bin/Debug/net7.0/lab18.runtimeconfig.json
+/Users/polina/Desktop/OOP илюхи/lab18/bin/Debug/net7.0/lab18.dll
+/Users/polina/Desktop/OOP илюхи/lab18/bin/Debug/net7.0/lab18.pdb
+/Users/polina/Desktop/OOP илюхи/lab18/obj/Debug/net7.0/lab18.csproj.AssemblyReference.cache
+/Users/polina/Desktop/OOP илюхи/lab18/obj/Debug/net7.0/lab18.GeneratedMSBuildEditorConfig.editorconfig
+/Users/polina/Desktop/OOP илюхи/lab18/obj/Debug/net7.0/lab18.AssemblyInfoInputs.cache
+/Users/polina/Desktop/OOP илюхи/lab18/obj/Debug/net7.0/lab18.AssemblyInfo.cs
+/Users/polina/Desktop/OOP илюхи/lab18/obj/Debug/net7.0/lab18.csproj.CoreCompileInputs.cache
+/Users/polina/Desktop/OOP илюхи/lab18/obj/Debug/net7.0/lab18.dll
+/Users/polina/Desktop/OOP илюхи/lab18/obj/Debug/net7.0/refint/lab18.dll
+/Users/polina/Desktop/OOP илюхи/lab18/obj/Debug/net7.0/lab18.pdb
+/Users/polina/Desktop/OOP илюхи/lab18/obj/Debug/net7.0/lab18.genruntimeconfig.cache
+/Users/polina/Desktop/OOP илюхи/lab18/obj/Debug/net7.0/ref/lab18.dll
